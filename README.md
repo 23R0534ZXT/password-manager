@@ -72,5 +72,4 @@ Under **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## Auteur / Author
 
-**23R** - Un mec qui bidouille en Python et kiffe la cybersécurité.  
-**23R** - A guy who tinkers with Python and loves cybersecurity.
+**23R** 
